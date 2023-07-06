@@ -1,0 +1,11 @@
+com\example\websocketdemo\controller\AgentRemarksController.class
+com\example\websocketdemo\controller\WebSocketEventListener.class
+com\example\websocketdemo\model\SupervisorQueue$MessageType.class
+com\example\websocketdemo\config\WebSocketConfig.class
+com\example\websocketdemo\controller\ChatController.class
+com\example\websocketdemo\model\ChatMessage1.class
+com\example\websocketdemo\model\SupervisorQueue.class
+com\example\websocketdemo\WebsocketDemoApplication.class
+com\example\websocketdemo\config\RabbitConfig.class
+com\example\websocketdemo\model\ChatMessage.class
+com\example\websocketdemo\model\ChatMessage$MessageType.class
